@@ -26,5 +26,7 @@
 hs_err_pid*
 
 .idea
+/out/
+quest-java-collection.iml
 
 # End of https://www.gitignore.io/api/java
